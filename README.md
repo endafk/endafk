@@ -1,16 +1,30 @@
-## Hi there 👋
+# I’m EndAFK
 
-<!--
-**endafk/endafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Ethical Hacker | Cybersecurity Wizard | ROM Alchemist | Linux Purist
 
-Here are some ideas to get you started:
+---
+### Languages I speak:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Bash | C++ | HTML/CSS | Javascript | Powershell
+
+---
+### 🧰 Tools & Toys
+
+`linux` `Metasploit` `Burp Suite` `Wireshark` `SQLmap`  
+`Bettercap` `Nmap` `tcpdump` `nmap`
+`ADB` `Fastboot` `iptables` `VIM`  
+`Python` `C++` `Bash` `JavaScript`
+
+ 
+ ⚠️ : If it looks janky but works — it still works. Welcome to real-world hacking.  
+	I skipped the student debt speedrun and built skills in the real world instead.
+
+---
+
+### 📫 Connect With Me
+
+- Email: `eliramorwen@gmail.com` 
+
+---
+
+> _“Hack the planet. But ethically.”_
