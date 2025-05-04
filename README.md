@@ -17,7 +17,6 @@ Python | Bash | C++ | HTML/CSS | Javascript | Powershell
 
  
  ⚠️ : If it looks janky but works — it still works. Welcome to real-world hacking.  
-	I skipped the student debt speedrun and built skills in the real world instead.
 
 ---
 
