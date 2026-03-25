@@ -4,11 +4,11 @@ Systems administrator. Self-taught. Based in Nairobi.
 
 ## What I work with
 
-- **AWS** — Lambda, DynamoDB, CloudFormation, CDK
-- **Linux** — NixOS daily driver, RHEL/Ubuntu/Debian for servers
+- **AWS** — Lambda, DynamoDB, CloudFormation, CDK, S3, Bedrock. EC2
+- **Linux** — NixOS daily driver, ArchLinux(btw), RHEL/Ubuntu/Debian for servers
 - **Networking** — MikroTik RouterOS, Ubiquiti EdgeOS, VLANs, firewalls
 - **Automation** — M-Pesa integrations, ERP systems, Pandas/SQL pipelines
-- **CI/CD** — GitHub Actions, Vercel, Docker
+- **CI/CD** — GitHub Actions, Vercel, Docker, Podman
 
 ## Things I've built
 
