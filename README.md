@@ -13,7 +13,7 @@ Systems administrator. Self-taught. Based in Nairobi.
 ## Things I've built
 
 - [AWS-Mpesa-Listener](https://github.com/endafk/AWS-Mpesa-Listener) — serverless M-Pesa C2B webhook with real-time Zoho Books sync
-- [mpesa-zoho-reconciliation](https://github.com/endafk/mpesa-zoho-reconciliation) — M-Pesa statement reconciliation tool
+- [mpesa-zoho-reconciliation](https://github.com/endafk/mpesa-zoho-reconciliation) — M-Pesa reconciliation tool
 - [prp-system](https://github.com/endafk/prp-system) — poultry resource planning system (Next.js + Supabase)
 
 ---
