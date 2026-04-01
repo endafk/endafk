@@ -17,5 +17,3 @@ Systems administrator. Self-taught. Based in Nairobi.
 - [prp-system](https://github.com/endafk/prp-system) — poultry resource planning system (Next.js + Supabase)
 
 ---
-
-jamesjaymaina@gmail.com · [LinkedIn](https://linkedin.com/in/james-maina-n)
