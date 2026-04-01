@@ -1,6 +1,6 @@
 # James Maina
 
-Systems administrator. Self-taught. Based in Nairobi.
+Systems administrator.
 
 ## What I work with
 
