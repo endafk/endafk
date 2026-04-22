@@ -10,7 +10,7 @@ Systems administrator.
 - **Automation** — M-Pesa integrations, ERP systems, Pandas/SQL pipelines
 - **CI/CD** — GitHub Actions, Vercel, Docker, Podman
 
-## Things I've built
+## Interesting Stuff
 
 - [AWS-Mpesa-Listener](https://github.com/endafk/AWS-Mpesa-Listener) — serverless M-Pesa C2B webhook with real-time Zoho Books sync
 - [mpesa-zoho-reconciliation](https://github.com/endafk/mpesa-zoho-reconciliation) — M-Pesa reconciliation tool
