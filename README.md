@@ -5,7 +5,7 @@ Platform Engineer.
 ## What I work with
 
 - **AWS** : Lambda, DynamoDB, CloudFormation, CDK, S3, Bedrock. EC2
-- **Linux** : NixOS daily driver, ArchLinux(btw), RHEL/Ubuntu/Debian for servers
+- **Linux** : NixOS, ArchLinux(btw), RHEL/Ubuntu/Debian for servers
 - **Networking** : MikroTik RouterOS, Ubiquiti EdgeOS, VLANs, firewalls
 - **Automation** : M-Pesa integrations, ERP systems, Pandas/SQL pipelines
 - **CI/CD** : GitHub Actions, Vercel, Docker, Podman
