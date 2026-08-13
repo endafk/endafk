@@ -14,5 +14,6 @@ Platform Engineer.
 
 - [msisdn-lookup](https://github.com/endafk/msisdn-lookup) ⇒ recover phone numbers from hashed M-Pesa Daraja callbacks. <1ms lookups, pure Python stdlib
 - [BingwaData](https://github.com/endafk/BingwaData) ⇒ Bingwa Sokoni bundles (data, minutes, SMS) in a React Native + Expo app
+- [mpesa-c2b-pipeline](https://github.com/endafk/mpesa-c2b-pipeline) ⇒ serverless M-Pesa C2B webhook with real-time Zoho Books sync
 
 ---
