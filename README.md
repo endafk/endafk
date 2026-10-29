@@ -2,7 +2,7 @@
 
 Platform Engineer.
 
-### Scars make us who ae are
+### Scars make us who we are
 
 ## Interesting Stuff
 
